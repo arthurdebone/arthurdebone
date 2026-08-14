@@ -32,4 +32,5 @@ Engenheiro focado na construção de sistemas escaláveis e de alta performance.
 
 ### 📫 Conecte-se comigo
 
-[![ProtonMail](https://shields.io)](mailto:arthurdebone@proton.me)
+[![Proton Mail](https://shields.io)](mailto:arthurdebone@proton.me)
+
