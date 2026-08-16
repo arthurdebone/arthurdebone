@@ -1,7 +1,7 @@
 # Arthur de Bone
 **Engenheiro de Computação | Flutter & Dart **
 
-Engenheiro focado na construção de sistemas escaláveis e de alta performance. Atuo no desenvolvimento de aplicações mobile robustas utilizando **Flutter/Dart**, com sólida aplicação de **Clean Architecture** e **Riverpod**, além de integração com sistemas embarcados (**ESP32/IoT**) e backend serverless.
+Engenheiro focado na construção de sistemas escaláveis e de alta performance. Atuo no desenvolvimento de aplicações mobile robustas utilizando **Flutter/Dart**, com sólida aplicação de **Clean Architecture** e **Riverpod**, além de integração com sistemas embarcados (**ESP32/IoT**).
 
 ---
 
