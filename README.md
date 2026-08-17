@@ -9,7 +9,7 @@ Engenheiro focado na construção de sistemas escaláveis e de alta performance.
 
 #### Axten — Projeto privado
 **Sistema de Gestão Patrimonial Multi-Ativo**
-* **Problema & Solução:** Plataforma para controle e monitoramento de ativos em tempo real, focada em estabilidade de estado e baixa latência.
+* **Problema & Solução:** Plataforma para controle e monitoramento de ativos em tempo real.
 * **Stack:** Flutter, Riverpod, Supabase, Clean Architecture.
 * **Destaques:** Gerenciamento de estado reativo complexo e sincronização offline-first.
 
